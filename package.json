@@ -1,0 +1,23 @@
+{
+  "name": "dynomin-sts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dynamodb-admin": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadishg/dynomin-sts.git"
+  },
+  "author": "Jagadish G <jagadish.g@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadishg/dynomin-sts/issues"
+  },
+  "homepage": "https://github.com/jagadishg/dynomin-sts#readme"
+}
